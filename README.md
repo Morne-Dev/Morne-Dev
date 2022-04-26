@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](http://www.morne-marais.click/)**
+- 🔭 I’m currently working on **[ML Projects](http://www.morne-marais.click/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -15,8 +15,6 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](http://www.morne-marais.click/)**
 
 - 📫 How to reach me **morne.dev114@gmail.com**
-
-- ⚡ Fun fact **I enjoy designing and creating solutions playing games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
